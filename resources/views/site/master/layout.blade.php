@@ -23,7 +23,7 @@
         <li class="nav-item"><a class="nav-link" href="{{route('site.cadastro')}}">cadastro</a></li>
         <li class="nav-item"><a class="nav-link" href="{{route('site.estantes')}}">estantes</a></li>
         <li class="nav-item"><a class="nav-link" href="{{route('site.sobre')}}">sobre</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{route('site.faq')}}">faq</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{route('site.contato')}}">contato</a></li>
       </ul>
     </div>
   </nav>

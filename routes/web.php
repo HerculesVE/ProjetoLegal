@@ -48,3 +48,7 @@ Route::get('/cadastro', function () {
     return view('site/cadastro');
 })->name('site.cadastro');
 
+Route::get('/contato', function () {
+    return view('site/contato');
+})->name('site.contato');
+

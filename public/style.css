@@ -19,7 +19,7 @@
 body {
     padding-top: 3rem;
     padding-bottom: 3rem;
-    color: #5a5a5a;
+    background: linear-gradient(#141e30, #243b55);
   }
   
   
@@ -102,4 +102,3 @@ body {
       margin-top: 7rem;
     }
   }
-  

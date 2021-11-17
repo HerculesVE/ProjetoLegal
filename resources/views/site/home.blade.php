@@ -1,6 +1,17 @@
 @extends('site.master.layout')
 
 @section('content')
+<style>
+  h1{
+    color: white;
+  }
+  h2{
+    color: white;
+  }
+  p{
+    color: white;
+  }
+</style>
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
